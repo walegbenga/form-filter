@@ -1,0 +1,14 @@
+{
+  "name": "drw/form-filter",
+  "description": "This form is use to generate HTML form using PHP",
+  "license": "MIT",
+  "homepage": "https://github.com/gbengawale/php-form",
+  "keywords": ["web", "php", "form", "form-filter", "form-validator"],
+  "autoload":
+  {
+    "psr-4":
+    {
+      "App\\Filter\\": "app/Filter"
+    }
+  }
+}
